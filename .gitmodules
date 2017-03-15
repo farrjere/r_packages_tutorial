@@ -1,0 +1,3 @@
+[submodule "repos/r_package_basics"]
+	path = repos/r_package_basics
+	url = https://github.com/farrjere/r_package_basics
